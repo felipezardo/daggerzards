@@ -415,111 +415,111 @@
       "img": "KATARI-FIRBOLG.png"
     }
   ],
-    "Arcano": [
+   "Arcano": [
     {
       "nivel": 1,
       "nome": "Proteção Rúnica",
-      "img": "1-Proteção Rúnica.jpg"
+      "img": "1-proteção rúnica.jpg"
     },
     {
       "nivel": 1,
       "nome": "Caos Liberto",
-      "img": "1-Caos Liberto.jpg"
+      "img": "1-caos liberto.jpg"
     },
     {
       "nivel": 1,
       "nome": "Caminhar na Parede",
-      "img": "1-Caminhar na Parede.jpg"
+      "img": "1-caminhar na parede.jpg"
     },
     {
       "nivel": 2,
       "nome": "Incendiar",
-      "img": "2-Incendiar.jpg"
+      "img": "2-incendiar.jpg"
     },
     {
       "nivel": 2,
       "nome": "Olho Flutuante",
-      "img": "2-Olho Flutuante.jpg"
+      "img": "2-olho flutuante.jpg"
     },
     {
       "nivel": 3,
       "nome": "Contramágica",
-      "img": "3-Contramágica.jpg"
+      "img": "3-contramágica.jpg"
     },
     {
       "nivel": 3,
       "nome": "Voo",
-      "img": "3-Voo.jpg"
+      "img": "3-voo.jpg"
     },
     {
       "nivel": 4,
       "nome": "Translocação",
-      "img": "4-Translocação.jpg"
+      "img": "4-translocação.jpg"
     },
     {
       "nivel": 4,
       "nome": "Impacto Defensivo",
-      "img": "4-Impacto Defensivo.jpg"
+      "img": "4-impacto defensivo.jpg"
     },
     {
       "nivel": 5,
       "nome": "Corrente de Relâmpagos",
-      "img": "5-Corrente de Relâmpagos.jpg"
+      "img": "5-corrente de relâmpagos.jpg"
     },
     {
       "nivel": 5,
       "nome": "Premonição",
-      "img": "5-Premonição.jpg"
+      "img": "5-premonição.jpg"
     },
     {
       "nivel": 6,
       "nome": "Fenda Espacial",
-      "img": "6-Fenda Espacial.jpg"
+      "img": "6-fenda espacial.jpg"
     },
     {
       "nivel": 6,
       "nome": "Telecinese",
-      "img": "6-Telecinese.jpg"
+      "img": "6-telecinese.jpg"
     },
     {
       "nivel": 7,
       "nome": "Dom Arcano",
-      "img": "7-Dom Arcano.jpg"
+      "img": "7-dom arcano.jpg"
     },
     {
       "nivel": 7,
       "nome": "Ocultação",
-      "img": "7-Ocultação.jpg"
+      "img": "7-ocultação.jpg"
     },
     {
       "nivel": 8,
       "nome": "Reflexo Arcano",
-      "img": "8-Reflexo Arcano.jpg"
+      "img": "8-reflexo arcano.jpg"
     },
     {
       "nivel": 8,
       "nome": "Aura de Confusão",
-      "img": "8-Aura de Confusão.jpg"
+      "img": "8-aura de confusão.jpg"
     },
     {
       "nivel": 9,
       "nome": "Terremoto",
-      "img": "9-Terremoto.jpg"
+      "img": "9-terremoto.jpg"
     },
     {
       "nivel": 9,
       "nome": "Projeção Sensorial",
-      "img": "9-Projeção Sensorial.jpg"
+      "img": "9-projeção sensorial.jpg"
     },
     {
       "nivel": 10,
       "nome": "Ajustar Realidade",
-      "img": "10-Ajustar Realidade.jpg"
+      "img": "10-ajustar realidade.jpg"
     },
     {
       "nivel": 10,
       "nome": "Chuva Arcana",
-      "img": "10-Chuva Arcana.jpg"
+      "img": "10-chuva arcana.jpg"
     }
   ],
   "Códice": [
