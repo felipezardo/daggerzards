@@ -318,7 +318,7 @@ main {
   margin-bottom: 1rem;
   border: 1px solid var(--btn-border);
   border-radius: 6px;
-  background-color: var(--bg-surface);
+  background-color: white;
   overflow: hidden;
 }
 
