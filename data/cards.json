@@ -413,6 +413,11 @@
       "nivel": 1,
       "nome": "Karati-Firbolg",
       "img": "KATARI-FIRBOLG.png"
+    },
+     {
+      "nivel": 1,
+      "nome": "Aetheris",
+      "img": "AETHERIS.png"
     }
   ],
    "Arcano": [
