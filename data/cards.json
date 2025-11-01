@@ -269,6 +269,11 @@
       "nivel": 8,
       "nome": "Mago: Discipulo Da Guerra (Maestria)",
       "img": "mago_discipulo-da-guerra_maestria.jpg"
+    },
+    {
+      "nivel": 1,
+      "nome": "BloodHunter: Ordem do Mutante (Fundamental)",
+      "img": "bloodhuner_ordem_do_mutante.jpg"
     }
   ],
   "Comunidades": [
