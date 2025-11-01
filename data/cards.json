@@ -1387,6 +1387,113 @@
       "nome": "Defesa Irredutível",
       "img": "10-defesa irredutível.jpg"
     }
+  ],
+  "Blood": [
+    {
+      "nivel": 1,
+      "nome": "Blood Spike",
+      "img": "1-blood spike.jpg"
+    },
+    {
+      "nivel": 1,
+      "nome": "Lifeblood Talisman",
+      "img": "1-lifeblood talisman.jpg"
+    },
+    {
+      "nivel": 1,
+      "nome": "Power Through Pain",
+      "img": "1-power through pain.jpg"
+    },
+    {
+      "nivel": 2,
+      "nome": "Brand of Castigation",
+      "img": "2-brand of castigation.jpg"
+    },
+    {
+      "nivel": 2,
+      "nome": "Vitality Manipulation",
+      "img": "2-vitality manipulation.jpg"
+    },
+    {
+      "nivel": 3,
+      "nome": "Blood Puppet",
+      "img": "3-blood puppet.jpg"
+    },
+    {
+      "nivel": 3,
+      "nome": "Burning Blood",
+      "img": "3-burning blood.jpg"
+    },
+    {
+      "nivel": 4,
+      "nome": "Grisly Harpoon",
+      "img": "4-grisly harpoon.jpg"
+    },
+    {
+      "nivel": 4,
+      "nome": "Weave the Flesh",
+      "img": "4-weave the flesh.jpg"
+    },
+    {
+      "nivel": 5,
+      "nome": "Mutual Suffering",
+      "img": "5-mutual suffering.jpg"
+    },
+    {
+      "nivel": 5,
+      "nome": "Parasite of the Will",
+      "img": "5-parasite of the will.jpg"
+    },
+    {
+      "nivel": 6,
+      "nome": "Blood Bind",
+      "img": "6-blood bind.jpg"
+    },
+    {
+      "nivel": 6,
+      "nome": "Vital Ward",
+      "img": "6-vital ward.jpg"
+    },
+    {
+      "nivel": 7,
+      "nome": "Blood-Touched",
+      "img": "7-blood-touched.jpg"
+    },
+    {
+      "nivel": 7,
+      "nome": "Vampiric Strike",
+      "img": "7-vampiric strike.jpg"
+    },
+    {
+      "nivel": 8,
+      "nome": "Life Leash",
+      "img": "8-life leash.jpg"
+    },
+    {
+      "nivel": 8,
+      "nome": "Runic Adrenaline",
+      "img": "8-runic adrenaline.jpg"
+    },
+    {
+      "nivel": 9,
+      "nome": "Bloodbath",
+      "img": "9-bloodbath.jpg"
+    },
+    {
+      "nivel": 9,
+      "nome": "Glyph of Hemorrhaging",
+      "img": "9-glyph of hemorrhaging.jpg"
+    },
+    {
+      "nivel": 10,
+      "nome": "Crimson Adamance",
+      "img": "10-crimson adamance.jpg"
+    },
+    {
+      "nivel": 10,
+      "nome": "Sanguine Feast",
+      "img": "10-sanguine feast.jpg"
+    }
   ]
   
 }
